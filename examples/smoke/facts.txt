@@ -1,0 +1,7 @@
+Anna	Friends	Bob
+Anna	Friends	Edward
+Anna	Friends	Frank
+Edward	Friends	Frank
+Gary	Friends	Helen
+Anna	Smokes	Anna
+Edward	Smokes	Edward
