@@ -6,6 +6,7 @@ This repository contains the code for our paper:
 **Title:** MLN4KB: an efficient Markov logic network engine for large-scale knowledge bases and structured logic rules.
 
 **Authors:** Huang Fang, Yang Liu, Yunfeng Cai, Mingming Sun.
+
 **Affiliation:** Baidu Research, Cognitive Computing Lab (CCL).
 
 
