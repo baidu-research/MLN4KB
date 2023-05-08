@@ -51,7 +51,7 @@ If you find this project helpful, please cite the code with the following bibtex
 ```
 @inproceedings{fang2023mln4kb,
   title={MLN4KB: an efficient Markov logic network engine for large-scale knowledge bases and structured logic rules},
-  author={Huang Fang, Yang Liu, Yunfeng Cai, Mingming Sun},
+  author={Huang Fang and Yang Liu and Yunfeng Cai and Mingming Sun},
   booktitle={The International World Wide Web Conference 2023},
   year={2023}
 }
